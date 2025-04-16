@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+/* react toastify css */
+.toast-position {
+    top: 7rem !important;
+  }

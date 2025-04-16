@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "Mirrorless camera with 18-45mm kit lens.",
+      "currentBidPrice": 2850,
+      "timeLeft": "1d 4h 30m",
+      "bidsCount": 12,
+      "image": "https://i.postimg.cc/ydg0r62L/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "1965 Gibson SG Standard Electric Guitar",
+      "currentBidPrice": 6700,
+      "timeLeft": "3h 15m",
+      "bidsCount": 20,
+      "image": "https://i.postimg.cc/5NwSV0yG/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "Original Apple Macintosh 128K (1984)",
+      "currentBidPrice": 4200,
+      "timeLeft": "5h 50m",
+      "bidsCount": 35,
+      "image": "https://i.postimg.cc/NM3RhqcB/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "A classic 1970s Rolex in excellent condition.",
+      "currentBidPrice": 8900,
+      "timeLeft": "2d 1h",
+      "bidsCount": 8,
+      "image": "https://i.postimg.cc/y81cCywg/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby'",
+      "description": "First Edition 'The Great Gatsby'",
+      "currentBidPrice": 12500,
+      "timeLeft": "22h 10m",
+      "bidsCount": 18,
+      "image": "https://i.postimg.cc/mkSkm0Zd/Bid6-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "Mid-Century Modern Eames Lounge Chair",
+      "currentBidPrice": 3800,
+      "timeLeft": "4d 6h",
+      "bidsCount": 25,
+      "image": "https://i.postimg.cc/LX1Z3CZ7/Bid5-min.png"
+    },
+    {
+      "id": 7,
+      "title": "Banksy Original Screen Print",
+      "description": "Banksy Original Screen Print",
+      "currentBidPrice": 24500,
+      "timeLeft": "1d 12h",
+      "bidsCount": 10,
+      "image": "https://i.postimg.cc/L855VCcT/Bid7-min.png"
+    }
+  ]
+  
