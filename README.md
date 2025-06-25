@@ -9,7 +9,7 @@ It is a Biding website. User can Bid any item and also remove any bid item. when
 Vite, nodejs, React.js , localstorage, React DOM, Tailwind CSS, DaisyUI, React-toastify
 
 # Features
-Bid Items showing in table format by default but user can change it in card by selecting card format. Automated calculate total sum of all added bid price, and when remove any item substruct the item price from the total sum. adding and removing alert sound. 
+Bid Items showing in table format ( by default ) but user can change it in card by selecting card format. Automated calculate total sum of all added bid price, and when remove any item substruct the item price from the total sum. adding and removing alert sound. 
 
 # Dependencies
 - vite : 6.2.0,
