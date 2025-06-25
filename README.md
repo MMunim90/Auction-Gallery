@@ -1,14 +1,32 @@
-# Live Website- auction-gellery.surge.sh
- 
- # React + Vite
- 
- This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
- 
- Currently, two official plugins are available:
- 
- - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
- - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
- 
- ## Expanding the ESLint configuration
- 
- If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![MasterHead](https://i.ibb.co/tPKktJPX/Screenshot-2025-06-25-150816.png)
+
+# Project overview
+website name: Auction Gallery
+
+It is a Biding website. User can Bid any item and also remove any bid item. when he bid any item, the item was add in his favorite item list and give a adding alert sound and a message in toastify. 
+
+# Technologies
+Vite, nodejs, React.js , localstorage, React DOM, Tailwind CSS, DaisyUI, React-toastify
+
+# Features
+Bid Items showing in table format by default but user can change it in card by selecting card format. Automated calculate total sum of all added bid price, and when remove any item substruct the item price from the total sum. adding and removing alert sound. 
+
+# Dependencies
+vite : 6.2.0,
+
+daisyui : 5.0.18,
+
+react : 19.0.0,
+
+react-dom : 19.0.0,
+
+react-toastify : 11.0.5,
+
+tailwindcss : 4.1.3 
+
+# How to run this website on local mechine
+First make sure Node.js and npm are installed on your system. If not then You can install them from [Node.JS](https://nodejs.org). Next, open a terminal or command prompt and use the git clone command and then paste the copied repository URL to clone the project. After cloning, navigate into the project folder using cd project-name. Once inside the project directory, run npm install to install all the dependencies listed in the package.json file. When the installation is complete, start the development server by running npm run dev. This will launch the React app in your default browser at http://localhost:5173, allowing you to view and work on the website locally.
+
+# Live Link
+[Auction Gallery](https://auction-gellery.surge.sh/)
+
